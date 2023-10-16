@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147566544159",
+    "project_id": "keepr-bdedb",
+    "storage_bucket": "keepr-bdedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147566544159:android:545b64cf687c3862755c2a",
+        "android_client_info": {
+          "package_name": "com.naodtadele.keepr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMcRAWpLwjSRrlKyDYipg3H1j8oBecHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
