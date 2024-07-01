@@ -1,31 +1,32 @@
-# Keepr Password Manager
+# Convo Chat-App
 
-Keepr is a robust password manager designed to safeguard your digital security with advanced encryption and multi-factor authentication.
+Convo is a messaging application inspired by the functionality of platforms like Telegram. It serves as a reliable communication tool, facilitating seamless connections between users across the globe.
 
 ## Features
 
-- **Advanced Encryption**: Keepr uses state-of-the-art encryption algorithms to ensure your passwords and personal information are secure.
-- **Multi-Factor Authentication (MFA)**: Add an extra layer of security to your account with MFA, making it harder for unauthorized users to gain access.
-- **User-Friendly Interface**: Easily manage your passwords with Keepr’s intuitive and user-friendly interface.
-- **Cross-Platform Compatibility**: Access your passwords on any device with Keepr's cross-platform support.
-- **Secure Password Generation**: Generate strong, unique passwords for all your accounts with Keepr's built-in password generator.
-- **Automatic Backup and Sync**: Keepr automatically backs up and syncs your data across all your devices.
+- **Instant Messaging**: Send and receive messages in real-time with your contacts.
+- **Multimedia Sharing**: Share photos, videos, and other multimedia files easily.
+- **Group Chats**: Create and join group chats to communicate with multiple people at once.
+- **Voice and Video Calls**: Make high-quality voice and video calls to stay connected.
+- **End-to-End Encryption**: Keep your conversations private and secure with end-to-end encryption.
+- **Cross-Platform Support**: Use Convo on various devices and operating systems for seamless communication.
+- **Customizable Interface**: Personalize the app’s appearance to suit your preferences.
 
 ## Technology Stack
 
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Firebase**: A comprehensive app development platform that provides a variety of tools and services to help you develop high-quality apps.
 
-
 ## Usage
 
-1. Launch Keepr Password Manager.
+1. Launch Convo Chat-App.
 2. Create a new account or log in with your existing account.
-3. Add your passwords and personal information to Keepr.
-4. Enable multi-factor authentication for added security.
-5. Use the secure password generator to create strong passwords for your accounts.
-6. Access your passwords anytime, anywhere with Keepr's cross-platform support.
+3. Add contacts and start a conversation.
+4. Create group chats to communicate with multiple people at once.
+5. Make voice and video calls for real-time communication.
+6. Share multimedia files with your contacts.
+7. Customize the app’s interface to your liking.
 
+---
 
-
-Thank you for using Keepr Password Manager!
+Thank you for using Convo Chat-App!
